@@ -1,4 +1,5 @@
 # Ionic2AccordionList
+How to create our own Ionic 2 Accordion List easily without using any plugins just pure simple Angular 2 code.
 
 To run locally:
 
